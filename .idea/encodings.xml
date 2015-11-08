@@ -2,11 +2,22 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/adapters/application.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/login/route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/login/template.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/models/note.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/models/notebook.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/user.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/notebooks/notes/route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/notebooks/notes/template.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/notebooks/route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/notebooks/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/register/route.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/register/template.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/router.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/templates/application.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ember-cli-build.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/mocks/notebooks.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server/mocks/notes.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server/mocks/users.js" charset="UTF-8" />
   </component>
 </project>
