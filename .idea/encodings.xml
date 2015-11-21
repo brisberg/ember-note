@@ -2,11 +2,15 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/app/adapters/application.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/components/edit-note/component.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/components/edit-note/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/login/route.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/login/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/note.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/notebook.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/user.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/notebooks/notes/note/route.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/notebooks/notes/note/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/notebooks/notes/route.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/notebooks/notes/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/notebooks/route.js" charset="UTF-8" />
