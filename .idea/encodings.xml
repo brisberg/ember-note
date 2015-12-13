@@ -6,6 +6,7 @@
     <file url="file://$PROJECT_DIR$/app/components/edit-note/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/login/route.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/login/template.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/mixins/validation-functions.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/note.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/notebook.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/models/user.js" charset="UTF-8" />
