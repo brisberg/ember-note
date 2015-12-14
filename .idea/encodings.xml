@@ -4,6 +4,7 @@
     <file url="file://$PROJECT_DIR$/app/adapters/application.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/components/edit-note/component.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/components/edit-note/template.hbs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/initializers/logger.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/login/route.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/login/template.hbs" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/app/mixins/validation-functions.js" charset="UTF-8" />
